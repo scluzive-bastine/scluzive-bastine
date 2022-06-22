@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/scluzive-bastine/scluzive-bastine/main/github_Banner.png" align="center"/>
 </div>   
 
-### <div>I'm Sabastine, a passionate Software Engineer 👨‍💻 working mostly on Frontend Engineering and working remotely🚀</div>  
+### <div>Software Engineer focused on Frontend Engineering with 3 years of experience developing and designing software applications using Javascript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, Sanity, MongoDB, GraphQL, GROQ, and Git/GitHub.</div>  
   
 
 - 🔭 I love learning new technologies mostly Frontend technologies as the industry grows rapidly   
