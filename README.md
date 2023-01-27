@@ -1,17 +1,16 @@
- <div align="center">
-<img src="https://raw.githubusercontent.com/scluzive-bastine/scluzive-bastine/main/github_Banner.png" align="center"/>
-</div>   
-
+  
+## Hi 👋 I'm Sabastine a
 ### <div>Software Engineer focused on Frontend Engineering with 5 years of experience developing and designing software applications using Javascript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, Sanity, MongoDB, GraphQL, GROQ, and Git/GitHub.</div>  
   
 
 - 🔭 I love learning new technologies mostly Frontend technologies as the industry grows rapidly   
-  
 
-- 🌱 I’m currently working on Web3 applications  
-  
 
-- 😆 When I'm not coding I play violin and video games  
+- 💻 Simplifying and explaining frontend development, so that even a 5 year old can understand
+
+
+
+- 😆 When I'm not coding I play video games  
   
 
 - ⚡ Best Quote: The Greatest want of the world is the want of men who in their inner most souls are true and honest  
