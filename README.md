@@ -1,5 +1,5 @@
   
-## Hi 👋 I'm Sabastine a
+## Hi 👋 I'm Sabastine
 ### <div>Software Engineer focused on Frontend Engineering with 5 years of experience developing and designing software applications using Javascript, React Js, Next Js, Typescript, Tailwind CSS, Bootstrap, Sanity, MongoDB, GraphQL, GROQ, and Git/GitHub.</div>  
   
 
