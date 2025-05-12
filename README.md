@@ -1,6 +1,6 @@
   
 ## Hi 👋 I'm Sabastine
-### <div>Software Engineer focused on Frontend Engineering with years of experience developing and designing software applications using Javascript, Laravel, React Js, Next Js, Typescript, Tailwind CSS, MongoDB, GraphQL, GROQ, REST API, and Git/GitHub.</div>  
+### <div>Software Engineer with years of experience developing and designing software applications using Javascript, Laravel, React Js, Next Js, Typescript, Java, Python, AWS, Tailwind CSS, MongoDB, GraphQL, GROQ, REST API, and Git/GitHub.</div>  
   
 
 - 🔭 I love learning new technologies as the industry grows rapidly
