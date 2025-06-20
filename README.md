@@ -1,34 +1,77 @@
-  
-## Hi 👋 I'm Sabastine
-### <div>Software Engineer with years of experience developing and designing software applications using Javascript, Laravel, React Js, Next Js, Typescript, Java, Python, AWS, Tailwind CSS, MongoDB, GraphQL, GROQ, REST API, and Git/GitHub.</div>  
-  
+# Hey 👋 I'm Sabastine
 
-- 🔭 I love learning new technologies as the industry grows rapidly
-  
+Software engineer, builder, and perpetual learner. 🚀
 
-- 😆 When I'm not coding I play video games  
-  
+I specialize in building scalable web apps using modern tools like **React**, **Next.js**, **Java Spring Boot**, **TypeScript**, and **Laravel**.  
+Currently exploring the intersection of **backend systems**, **cloud infrastructure**, and **AI-powered tooling**.
 
-- ⚡ Best Quote: The Greatest want of the world is the want of men who in their inner most souls are true and honest  
-  
+---
 
-<br/>  
+## 👨🏽‍💻 What I Work With
+**Languages & Frameworks:**  
+JavaScript, TypeScript, Java, Python, Laravel, Spring Boot
 
+**Frontend:**  
+React, Next.js, Tailwind CSS, Framer Motion
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/scluzive-bastine" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/sabastine__" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sabastine-nwachukwu-921197166" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>   
-  
+**Backend & APIs:**  
+REST API, GraphQL, GROQ
 
-  
+**DevOps & Cloud:**  
+AWS, GitHub Actions, Docker
 
-<br/>  
+**Database:**  
+MongoDB, MySQL, PostgreSQL
+
+---
+
+## 🧠 What I'm Passionate About
+
+- Clean software architecture  
+- Web performance & DX (developer experience)  
+- Monorepos with **Nx**  
+- Exploring **AI + developer tools**  
+
+---
+
+## ⚙️ Side Projects & Tools (Coming Soon)
+
+Here’s what I’m working on, experimenting with, or launching soon:
+
+- **WalletHQ** – AI-powered wallet analytics tool  
+- **StackSynth** – Stack generator for bootstrapping your project (Next.js + Spring Boot)  
+- **API Watcher** – Uptime monitor and response analyzer  
+- **ShortPrompt** – Lightweight AI prompt testing tool  
+- **DevMatch** – A micro-SaaS idea matcher for Nigerian tech builders
+
+---
+
+## ✍️ Writing & Docs (Coming Soon)
+
+- "Migrating to Nx Monorepo: Lessons from the Trenches"
+- "React + Spring Boot Architecture for Modern Teams"
+- "Building Scalable APIs with Java & Clean Architecture"
+- "Frontend State Management: What I’ve Learned from Rebuilding Zustand"
+
+---
+
+## 🎮 Fun Facts
+
+When I’m not building or reading about system design:
+- 🎮 I’m probably gaming
+- 🧩 I enjoy thinking in systems and breaking things down to first principles
+
+**⚡ Favorite Quote:**  
+_“The greatest want of the world is the want of men who in their innermost souls are true and honest.”_
+
+---
+
+## 🔗 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sabastine)
+
+---
+
+> If you’re building in public or want to jam on open-source, let’s connect.
