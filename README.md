@@ -31,6 +31,7 @@ MongoDB, MySQL, PostgreSQL
 - Web performance & DX (developer experience)  
 - Monorepos with **Nx**  
 - Exploring **AI + developer tools**  
+- Writing & sharing knowledge (coming soon...)
 
 ---
 
@@ -58,7 +59,7 @@ Here’s what I’m working on, experimenting with, or launching soon:
 ## 🎮 Fun Facts
 
 When I’m not building or reading about system design:
-- 🎮 I’m probably gaming
+- 🎮 I’m probably gaming or binging anime
 - 🧩 I enjoy thinking in systems and breaking things down to first principles
 
 **⚡ Favorite Quote:**  
@@ -68,9 +69,9 @@ _“The greatest want of the world is the want of men who in their innermost sou
 
 ## 🔗 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/sabastine)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white)](https://x.com/sabastine__)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nwachukwu-sabastine/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/scluzive-bastine)
 
 ---
 
